@@ -69,24 +69,22 @@ th {
 }
 
 .tab1 {
-	text-indent: 50px;
+	text-indent: 15%;
 }
 
 #flex-group {
 	display: flex;
-	border-right:  50px solid white;
-	border-left:  50px solid white;
 }
 
 #flex-group nav {
-	flex: 0 1 40%;
-	margin: auto;
+	flex: 0 1 45%;
+	padding: 10px;
 }
 
 #flex-group main {
-	flex: 0 1 25%;
+	flex: 0 1 10%;
 }
 
 #flex-group aside {
-	flex: 0 1 35%;
+	flex: 0 1 45%;
 }
