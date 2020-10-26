@@ -2,6 +2,11 @@ nav a {
 	font-size: 30px;
 }
 
+body {
+  	padding: 2%;
+  	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
 h1 {
 	font-size: 48px;
 }
