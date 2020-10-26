@@ -3,7 +3,8 @@ nav a {
 }
 
 body {
-  	padding: 50px;
+  	padding-bottom: 50px;
+	padding-top: 20px;
   	font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
