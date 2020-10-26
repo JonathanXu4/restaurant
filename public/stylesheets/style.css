@@ -90,3 +90,11 @@ th {
 #flex-group aside {
 	flex: 0 1 35%;
 }
+
+navbar {
+	background-color: red;
+}
+
+navbar a {
+	color: white;
+}
