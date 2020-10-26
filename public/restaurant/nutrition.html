@@ -8,6 +8,44 @@
 	<link rel="stylesheet" href="../stylesheets/style.css">
 
 	<title>Page</title>
+	<style>
+		#nutrition-table {
+			outline: 1px solid black;
+		}
+
+		th {
+			font-size: 12px;
+			font-weight: lighter;
+		}
+
+		.bold-text {
+			font-size: 14px;
+			font-weight: bold;
+		}
+
+		.tab1 {
+			text-indent: 50px;
+		}
+
+		#flex-group {
+			display: flex;
+			border-right:  50px solid white;
+			border-left:  50px solid white;
+		}
+
+		nav {
+			flex: 0 1 40%;
+			margin: auto;
+		}
+
+		main {
+			flex: 0 1 25%;
+		}
+
+		aside {
+			flex: 0 1 35%;
+		}
+	</style>
 </head>
 <body>
 <div class="container">
@@ -41,7 +79,134 @@
 
 
 
+	<br>
+	<div id="flex-group">
+		<nav>
+			<img src="../images/hot%20dog.jpg" class="img-fluid" alt="bunless hot dogs">
+			<p>*Mustard not provided</p>
+		</nav><main></main><aside>
+			<div id="nutrition-table" class="table">
+				<h1>Nutrition Facts</h1>
+				<table class="table">
+					<tr>
+						<th>
+							Serving Size 1 Hot Dog
+						</th>
+						<th></th>
+					</tr>
+					<tr>
+						<th>
+							Servings per Hot Dog 1
+						</th>
+						<th></th>
+					</tr>
+					<tr>
+						<th>
+							Amount per serving
+						</th>
+						<th></th>
+					</tr>
+					<tr>
+						<th>
+							<span class ="bold-text">Calories</span> 151
+						</th>
+						<th>
+							Calories from Fat 150
+						</th>
+					</tr>
+					<tr>
+						<th></th>
+						<th>
+							<span class ="bold-text">% Daily Value</span>
+						</th>
+					</tr>
+					<tr>
+						<th>
+							<span class ="bold-text">Total Fat</span> 13g
+						</th>
+						<th>
+							20%
+						</th>
+					</tr>
+					<tr>
+						<th class="tab1">
+							Saturated Fat 4g
+						</th>
+						<th>
+							20%
+						</th>
+					</tr>
+					<tr>
+						<th class="tab1">
+							Polyunsaturated Fat 2.3g
+						</th>
+						<th></th>
+					</tr>
+					<tr>
+						<th class="tab1">
+							Monounsaturated fat 6g
+						</th>
+						<th></th>
+					</tr>
+					<tr>
+						<th>
+							<span class ="bold-text">Cholesterol</span> 40 mg
+						</th>
+						<th>
+							13%
+						</th>
+					</tr>
+					<tr>
+						<th>
+							<span class ="bold-text">Sodium</span> 567 mg
+						</th>
+						<th>
+							23%
+						</th>
+					</tr>
+					<tr>
+						<th>
+							<span class ="bold-text">Potassium</span> 79 mg
+						</th>
+						<th>
+							2%
+						</th>
+					</tr>
+					<tr>
+						<th>
+							<span class ="bold-text">Total Carbohydrate</span> 2.2g
+						</th>
+						<th>
+							0%
+						</th>
+					</tr>
+					<tr>
+						<th class="tab1">
+							Dietary Fiber 0g
+						</th>
+						<th>
+							0%
+						</th>
+					</tr>
+					<tr>
+						<th>
+							<span class ="bold-text">Protein</span> 5g
+						</th>
+						<th>
+							10%
+						</th>
+					</tr>
+				</table>
+			</div>
+		</aside>
+	</div>
 
+
+
+
+	<footer>
+		<p id="footer-text">We use cookies or something, you can't remove this message.</p>
+	</footer>
 </div>
 
 
