@@ -53,3 +53,40 @@ footer {
 #enter {
 	width: 100%;
 }
+
+#nutrition-table {
+	outline: 1px solid black;
+}
+
+th {
+	font-size: 12px;
+	font-weight: lighter;
+}
+
+.bold-text {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.tab1 {
+	text-indent: 50px;
+}
+
+#flex-group {
+	display: flex;
+	border-right:  50px solid white;
+	border-left:  50px solid white;
+}
+
+#flex-group nav {
+	flex: 0 1 40%;
+	margin: auto;
+}
+
+#flex-group main {
+	flex: 0 1 25%;
+}
+
+#flex-group aside {
+	flex: 0 1 35%;
+}
