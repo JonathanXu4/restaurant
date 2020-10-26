@@ -33,14 +33,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e9907ba-89a6-43ec-a20a-9737729911b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/Coronavirus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/burger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bun.pdn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bunless.pdn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/deals_link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/restaurant/deals.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/copypage.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/copypage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/restaurant/copypage.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurant/copypage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/restaurant/coronavirus.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurant/coronavirus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/restaurant/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurant/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/restaurant/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurant/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/restaurant/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurant/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603654466855</updated>
-      <workItem from="1603654468132" duration="10844000" />
+      <workItem from="1603654468132" duration="14579000" />
     </task>
     <servers />
   </component>
