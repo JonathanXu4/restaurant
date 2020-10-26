@@ -44,3 +44,7 @@ footer {
 #deals-div nav, #deals-div aside {
 	flex: 0 1 50%;
 }
+
+#logo {
+	font-size: 36px;
+}
